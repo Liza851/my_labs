@@ -1,4 +1,4 @@
-# software_arch
+
 
 ## Start
 execute `start.sh` to build and run the server
